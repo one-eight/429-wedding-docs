@@ -29,7 +29,12 @@
 `id` と `password` を入力し `LOGIN` をタップすることでログインできます  
 初期の `id` と `password` は新郎新婦よりお伝えしているものを入力してください
 
-<img src="./../assets/images/how-to-use/ios/login-use.png" height="256px">
+#### 初回ログイン時
+初回ログイン時に、`お名前登録モーダル` と `パスワード変更モーダル` が表示されます   
+それぞれ入力をお願いいたします
+
+<img src="./../assets/images/how-to-use/ios/name-change-modal.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/password-change-modal.png" height="256px">
 
 ### HOME 画面
 
