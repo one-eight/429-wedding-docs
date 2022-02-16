@@ -23,15 +23,22 @@
 
 ### ログイン画面
 
-<img src="./../assets/images/how-to-use/login-ios.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/login.png" height="256px">
 
 429-WEDDING にログインするための画面です  
 `id` と `password` を入力し `LOGIN` をタップすることでログインできます  
 初期の `id` と `password` は新郎新婦よりお伝えしているものを入力してください
 
+#### 初回ログイン時
+初回ログイン時に、`お名前登録モーダル` と `パスワード変更モーダル` が表示されます   
+それぞれ入力をお願いいたします
+
+<img src="./../assets/images/how-to-use/ios/name-change-modal.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/password-change-modal.png" height="256px">
+
 ### HOME 画面
 
-<img src="./../assets/images/how-to-use/login-ios.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/home.png" height="256px">
 
 挙式披露宴へのご出席ご欠席を表明いただける画面です  
 `出席` もしくは `欠席` をタップすることで表明いただけます  
@@ -43,12 +50,16 @@
 
 また、会場の __新型コロナウイルスの感染予防及び拡散防止対策__ につきましては、 `感染症予防対策について` もしくは `ご列席される方にお願い（動画）` をタップいただくことでご確認いただけます
 
+<img src="./../assets/images/how-to-use/ios/home-use.png" height="256px">
+
 同日に __アフターパーティ__ を開催する予定です  
 こちらにつきましては、挙式披露宴へのご出席ご欠席を表明いただいた後に表示される `アフターパーティについて` をタップして頂き、別途参加不参加の表明をお願いいたします
 
+<img src="./../assets/images/how-to-use/ios/home-after-attendance.png" height="256px">
+
 ### CELEBRATION 画面
 
-<img src="./../assets/images/how-to-use/login-ios.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/celebration.png" height="256px">
 
 ご祝儀をオンライン決済にて包んでいただける画面です  
 ご祝儀の金額は予め用意されている選択肢から選択いただけます    
@@ -66,18 +77,23 @@
 * セキュリティコード（カード裏の３桁の数字）
 
 ご祝儀金額の選択、メールアドレスの入力、クレジットカード情報の入力のすべてが完了すると `お気持ちをお届けする` ボタンがタップできるようになります  
+
+<img src="./../assets/images/how-to-use/ios/celebration-use.png" height="256px">
+
 ボタンをタップすると確認メッセージが表示されるので、内容を再度ご確認いただき問題なければ `同意する` をタップしてください  
 `お届け` ボタンがタップできるようになるので、こちらをタップいただくことでご祝儀をお預かりします
 
+<img src="./../assets/images/how-to-use/ios/celebration-modal.png" height="256px">
+
 ### RECEPTION 画面
 
-<img src="./../assets/images/how-to-use/login-ios.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/reception.png" height="256px">
 
 挙式披露宴の日時、場所、タイムラインをご確認いただける画面です
 
 ### PROFILE 画面
 
-<img src="./../assets/images/how-to-use/login-ios.png" height="256px">
+<img src="./../assets/images/how-to-use/ios/profile.png" height="256px">
 
 お名前やパスワードの変更を行える画面です
 
